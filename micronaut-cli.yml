@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.dartshader
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, java, java-application, jdbc-hikari, jetty-server, junit, logback, lombok, properties, readme, shade]
